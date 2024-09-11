@@ -74,7 +74,7 @@
 14 - Acessar arquivo de configuração do NGINX
 
 ```
-  nano ~/dify/docker/nginx/conf.d/default.conf
+  sudo nano ~/dify/docker/nginx/conf.d/default.conf
 ```
 
 15 - Substituir valores do api e web com os IPs anotados anteriormente
